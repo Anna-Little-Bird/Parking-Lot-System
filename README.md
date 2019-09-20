@@ -1,6 +1,6 @@
 # Parking Lot System
 
-The main objective of the Parking Lot Access Control System is to control the gate in order to let the vehicles enter and exit the parking place. The system has the below requirements:
+The main objective of the Parking Lot System is to control the gate in order to let the vehicles enter and exit the parking place. The system has the below requirements:
 
 -	vehicle detection on both sides of the gate;
 -	the gate has to remain open until the car has passed through it completely or until the time has run out;
