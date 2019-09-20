@@ -8,6 +8,7 @@ The main objective of the Parking Lot Access Control System is to control the ga
 
 The system was implemented on PIC18F25K22 microcontroller. For detecting the vehicles 2 simple ultrasonic sensors HC-SR04 were used. The gate was controlled by SG-90 servo motor. The system has LCD screen to indicate the state of the gates.
 
-The following state diagram was designed to fulfil the requirements of the system: link!!!
+The following state diagram was designed to fulfil the requirements of the system:
+![state diagram](https://github.com/Anna-Little-Bird/Parking-Lot-System/blob/master/Photos/State%20Diagram.jpg)
 
 The initial state of the gate is closed, the LCD is showing “CLOSED”. When the car is approaching the gate one of the ultrasound sensors detects it and launches either of the processes: WELCOME if the car enters the parking lot or GOODBYE if the car exits. The gate opens, the LCD start showing the message depending on the current state of the system. After 5 seconds the system goes back to its initial state.
