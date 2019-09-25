@@ -1,5 +1,7 @@
 # Parking Lot System
 
+![parking lot system](https://github.com/Anna-Little-Bird/Parking-Lot-System/blob/master/Photos/1.jpg)
+
 The main objective of the Parking Lot System is to control the gate in order to let the vehicles enter and exit the parking place. The system has the below requirements:
 
 -	vehicle detection on both sides of the gate;
